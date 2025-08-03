@@ -1,0 +1,122 @@
+\documentclass{article}
+
+\begin{document}
+
+\section*{Test Case 1}
+
+\subsection*{Input}
+
+\begin{verbatim}
+1 1 1
+p1 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p3 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+3
+0
+0
+0
+fdc1
+fdc2
+fdc3
+\end{verbatim}
+
+\subsection*{Output}
+
+\begin{verbatim}
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc2	1
+fdc3	1
+		Professors of category x1 and Course Allotment
+p1	1
+		Professors of category x2 and Course Allotment
+p2	1
+		Professors of category x3 and Course Allotment
+p3	1
+		Professors AND Courses
+p2	fdc1	
+p3	fdc2	
+p3	fdc3	
+p1	fdc3
+\end{verbatim}
+
+\subsection*{Explanation}
+
+According to our algorithm , we will first search for the course offered by the university in the preference list of professors of category x2. In the given test case there is only 1 professor p2 available. We have used map while alloting course therefore cdc1 will be offered first(as it is reading lexicographically). Since we found fdc1 at first place only , we allot this course to professor p2. Now his slot is full so we wont allot him any further courses. Now we have to allot the course fdc2. Since we had only 1 professor of category x2, now we will move to professors of category x3 to allot him first a full course followed by half(if available).Course fdc2 is searched first in the preference list of x3 followed by x1. Since it isnt there in the first preference of either p1 or p3. Now we will search in the second preference of p3. Since we found it, we will allot cdc2 to p3. We still have half slot available for both p1 and p3. We have cdc3 left to allot. We will now first search for this course in the preference list of p1 and if found we will allot him 0.5 course followed by another half to p3. In this manner we are allotting all the courses to the professors in such a way that all professors are alloted some course or other and also taking there preference in consideration.
+
+\section*{Test Case 2}
+
+\subsection*{Input}
+
+\begin{verbatim}
+2 2 2
+p1 12
+fdc1 fdc2 fdc3 fdc4 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 12
+fdc2 fdc3 fdc1 fdc4 fde3 fde2 fde1 fde4 hdc1 hdc2 hde1 hde2
+p3 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p4 12
+fdc3 fdc2 fdc1 fdc4 fde2 fde4 fde3 fde1 hdc2 hdc1 hde1 hde2
+p5 12
+fdc4 fdc1 fdc3 fdc2 fde4 fde1 fde2 fde3 hdc1 hdc2 hde1 hde2
+p6 12
+fdc5 fdc3 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+3
+2
+1
+2
+fdc5
+fdc3
+fdc2
+fde2
+fde3
+hdc1
+hde1
+hde2
+\end{verbatim}
+
+\subsection*{Output}
+
+\begin{verbatim}
+Course code vs Allotment map for FD CDC :
+fdc2	1
+fdc3	1
+fdc5	1
+Course code vs Allotment map for FD ELE :
+fde2	1
+fde3	1
+Course code vs Allotment map for HD CDC :
+hdc1	1
+Course code vs Allotment map for HD ELE :
+hde1	0
+hde2	0
+		Professors of category x1 and Course Allotment
+p1	1
+p2	1
+		Professors of category x2 and Course Allotment
+p3	1
+p4	1
+		Professors of category x3 and Course Allotment
+p5	1
+p6	1
+		Professors AND Courses
+p5	fdc2	
+p2	fdc2	
+p4	fdc3	
+p6	fdc5	
+p6	fde2	
+p1	fde2	
+p3	fde3	
+p5	hdc1
+\end{verbatim}
+
+\subsection*{Explanation}
+
+According to our algorithm, we will first search for the course offered by the university in the preference list of professors of category x2. In the given test case, there are 2 professors p3 and p4 available. We have used map while allotting course therefore fdc2 will be offered first (as it is reading lexicographically). Since we did not find fdc2 in the first preference of x2 category professors, we will now check x3 category. This category also does not have fdc2 as their first priority, so the algorithm moves onto x1 category professors. We find fdc2 in p2 so half of this course is allotted to p2. Now his slot is full so we won’t allot him any further courses. Now the algorithm checks x3 category professors for fdc2 to allot another half of the course to them. This is done by p5 so now the course fdc2 is allotted and p5 has 1 course left to be allotted. Now we move onto fdc3. Fdc3 is the first preference of p4 so it is allotted to p4 professor. P4 professor slot is now full. Fdc5 will be allotted next to p6 as it is his first preference. Now p6 has 0.5 course slot left.  Next course to be allotted is fde2. As p4 slot is already full, p1 will be given the course and p1 slot will be full and half the fde2 course will be left. Next, we will look into p5 and p6 to give the other half of the course fde2. So as p6 only had 0.5 slot left, this will be allotted to p6. All slots of p6 are full. Next course to be allotted is fde3. P3 will be allotted this course as it is the only professor available with the highest preference for fde3. P3 slots are also full. Now the course to allot is hdc1 and the only professor left is p5 with 1 course slot left as 0.5 was allotted to fdc2. So hdc1 is allotted to professor p5. Now even though courses hde1 and hde2 are left, there are no more professors available.
+
+
+\end{document}

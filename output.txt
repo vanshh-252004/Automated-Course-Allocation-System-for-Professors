@@ -1,0 +1,987 @@
+testcase number:1
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc2	1
+fdc3	1
+Course code vs Allotment map for FD ELE :
+fde1	0
+fde2	0
+fde3	0
+Course code vs Allotment map for HD CDC :
+hdc1	0
+hdc2	0
+Course code vs Allotment map for HD ELE :
+hde1	0
+hde2	0
+		Professors of category x1 and Course Allotment
+p1	1
+		Professors of category x2 and Course Allotment
+p2	1
+		Professors of category x3 and Course Allotment
+p3	1
+		Professors AND Courses
+p2	fdc1	
+p3	fdc2	
+p3	fdc3	
+p1	fdc3	
+testcase number:2
+Course code vs Allotment map for FD CDC :
+fdc2	1
+fdc3	1
+Course code vs Allotment map for FD ELE :
+fde1	1
+fde3	0
+Course code vs Allotment map for HD CDC :
+hdc1	0
+hdc2	0
+Course code vs Allotment map for HD ELE :
+hde1	0
+hde2	0
+		Professors of category x1 and Course Allotment
+p1	1
+		Professors of category x2 and Course Allotment
+p2	1
+		Professors of category x3 and Course Allotment
+p3	1
+		Professors AND Courses
+p2	fdc2	
+p3	fdc3	
+p3	fde1	
+p1	fde1	
+testcase number:3
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc3	1
+fdc4	1
+Course code vs Allotment map for FD ELE :
+fde4	0
+fde5	0
+fde6	0
+Course code vs Allotment map for HD CDC :
+hdc1	0
+hdc2	0
+Course code vs Allotment map for HD ELE :
+hde1	0
+hde2	0
+		Professors of category x1 and Course Allotment
+p1	1
+		Professors of category x2 and Course Allotment
+p2	1
+		Professors of category x3 and Course Allotment
+p3	1
+		Professors AND Courses
+p2	fdc1	
+p3	fdc3	
+p3	fdc4	
+p1	fdc4	
+testcase number:4
+Course code vs Allotment map for HD CDC :
+hdc3	0
+hdc4	0
+hdc5	0
+Course code vs Allotment map for HD ELE :
+hde1	1
+hde4	0
+hde5	0
+		Professors of category x1 and Course Allotment
+p1	0
+		Professors of category x2 and Course Allotment
+p2	1
+		Professors of category x3 and Course Allotment
+p3	0
+		Professors AND Courses
+p2	hde1	
+testcase number:5
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc2	1
+fdc3	1
+		Professors of category x1 and Course Allotment
+p1	1
+		Professors of category x2 and Course Allotment
+p2	1
+		Professors of category x3 and Course Allotment
+p3	1
+		Professors AND Courses
+p2	fdc1	
+p3	fdc2	
+p3	fdc3	
+p1	fdc3	
+testcase number:6
+Course code vs Allotment map for FD CDC :
+fdc1	1
+Course code vs Allotment map for FD ELE :
+fde1	1
+Course code vs Allotment map for HD CDC :
+hdc1	1
+Course code vs Allotment map for HD ELE :
+hde1	1
+		Professors of category x1 and Course Allotment
+p1	0
+p2	0
+		Professors of category x2 and Course Allotment
+p3	1
+p4	1
+		Professors of category x3 and Course Allotment
+p5	1
+p6	1
+		Professors AND Courses
+p3	fdc1	
+p4	fde1	
+p5	hdc1	
+p6	hde1	
+testcase number:7
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc5	0
+Course code vs Allotment map for FD ELE :
+fde1	1
+Course code vs Allotment map for HD CDC :
+hdc1	1
+Course code vs Allotment map for HD ELE :
+hde1	1
+		Professors of category x1 and Course Allotment
+p1	1
+p2	1
+		Professors of category x2 and Course Allotment
+p3	1
+		Professors of category x3 and Course Allotment
+p4	1
+p5	1
+		Professors AND Courses
+p3	fdc1	
+p4	fde1	
+p5	hdc1	
+p1	hde1	
+p2	hde1	
+testcase number:8
+Course code vs Allotment map for FD CDC :
+fdc2	1
+fdc3	1
+Course code vs Allotment map for FD ELE :
+fde3	1
+Course code vs Allotment map for HD CDC :
+hdc1	1
+Course code vs Allotment map for HD ELE :
+hde1	0
+hde3	0
+		Professors of category x1 and Course Allotment
+p1	0
+p2	1
+		Professors of category x2 and Course Allotment
+p3	1
+p4	1
+		Professors of category x3 and Course Allotment
+p5	1
+		Professors AND Courses
+p5	fdc2	
+p2	fdc2	
+p5	fdc3	
+p4	fde3	
+p3	hdc1	
+testcase number:9
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc2	1
+fdc3	1
+Course code vs Allotment map for FD ELE :
+fde2	1
+fde3	1
+Course code vs Allotment map for HD CDC :
+hdc1	0
+Course code vs Allotment map for HD ELE :
+hde1	0
+hde2	0
+		Professors of category x1 and Course Allotment
+p1	1
+		Professors of category x2 and Course Allotment
+p2	1
+p3	1
+		Professors of category x3 and Course Allotment
+p4	1
+p5	1
+		Professors AND Courses
+p3	fdc1	
+p2	fdc2	
+p4	fdc3	
+p4	fde2	
+p1	fde2	
+p5	fde3	
+testcase number:10
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc2	1
+fdc3	1
+Course code vs Allotment map for FD ELE :
+fde2	1
+fde3	1
+Course code vs Allotment map for HD CDC :
+hdc1	1
+Course code vs Allotment map for HD ELE :
+hde1	0
+hde2	0
+		Professors of category x1 and Course Allotment
+p1	1
+		Professors of category x2 and Course Allotment
+p2	1
+p3	1
+		Professors of category x3 and Course Allotment
+p4	1
+p5	1
+p6	1
+		Professors AND Courses
+p3	fdc1	
+p2	fdc2	
+p4	fdc3	
+p4	fde2	
+p1	fde2	
+p6	fde3	
+p5	hdc1	
+testcase number:11
+Course code vs Allotment map for FD CDC :
+fdc3	1
+fdc4	1
+Course code vs Allotment map for FD ELE :
+fde2	1
+fde3	1
+fde4	1
+Course code vs Allotment map for HD CDC :
+hdc1	1
+Course code vs Allotment map for HD ELE :
+hde1	0
+hde2	0
+		Professors of category x1 and Course Allotment
+p1	1
+		Professors of category x2 and Course Allotment
+p2	1
+p3	1
+p4	1
+		Professors of category x3 and Course Allotment
+p5	1
+p6	1
+		Professors AND Courses
+p4	fdc3	
+p5	fdc4	
+p6	fde2	
+p1	fde2	
+p2	fde3	
+p3	fde4	
+p6	hdc1	
+testcase number:12
+Course code vs Allotment map for FD CDC :
+fdc2	1
+fdc3	1
+fdc5	1
+Course code vs Allotment map for FD ELE :
+fde2	1
+fde3	1
+Course code vs Allotment map for HD CDC :
+hdc1	1
+Course code vs Allotment map for HD ELE :
+hde1	0
+hde2	0
+		Professors of category x1 and Course Allotment
+p1	1
+p2	1
+		Professors of category x2 and Course Allotment
+p3	1
+p4	1
+		Professors of category x3 and Course Allotment
+p5	1
+p6	1
+		Professors AND Courses
+p5	fdc2	
+p2	fdc2	
+p4	fdc3	
+p6	fdc5	
+p6	fde2	
+p1	fde2	
+p3	fde3	
+p5	hdc1	
+testcase number:13
+Course code vs Allotment map for FD CDC :
+fdc2	1
+fdc4	1
+Course code vs Allotment map for FD ELE :
+fde1	1
+fde2	1
+Course code vs Allotment map for HD CDC :
+hdc4	0
+Course code vs Allotment map for HD ELE :
+hde2	1
+hde3	0
+		Professors of category x1 and Course Allotment
+p1	1
+p2	1
+p3	1
+		Professors of category x2 and Course Allotment
+p4	1
+p5	1
+		Professors of category x3 and Course Allotment
+p6	1
+		Professors AND Courses
+p6	fdc2	
+p2	fdc2	
+p5	fdc4	
+p6	fde1	
+p4	fde2	
+p1	hde2	
+p3	hde2	
+testcase number:14
+Course code vs Allotment map for FD CDC :
+fdc2	1
+fdc4	1
+Course code vs Allotment map for FD ELE :
+fde1	1
+fde2	1
+Course code vs Allotment map for HD CDC :
+hdc4	0
+Course code vs Allotment map for HD ELE :
+hde2	1
+hde3	0
+		Professors of category x1 and Course Allotment
+p1	0
+p2	1
+p3	0
+		Professors of category x2 and Course Allotment
+p4	1
+p5	1
+		Professors of category x3 and Course Allotment
+p6	1
+p7	1
+		Professors AND Courses
+p6	fdc2	
+p2	fdc2	
+p5	fdc4	
+p6	fde1	
+p4	fde2	
+p7	hde2	
+testcase number:15
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc3	1
+Course code vs Allotment map for FD ELE :
+fde1	1
+fde2	1
+Course code vs Allotment map for HD CDC :
+hdc1	1
+Course code vs Allotment map for HD ELE :
+hde1	1
+hde2	1
+		Professors of category x1 and Course Allotment
+p1	1
+p2	1
+		Professors of category x2 and Course Allotment
+p3	1
+p4	1
+p5	1
+		Professors of category x3 and Course Allotment
+p6	1
+p7	1
+		Professors AND Courses
+p3	fdc1	
+p4	fdc3	
+p6	fde1	
+p6	fde2	
+p1	fde2	
+p5	hdc1	
+p7	hde1	
+p7	hde2	
+p2	hde2	
+testcase number:16
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc3	1
+Course code vs Allotment map for FD ELE :
+fde1	1
+fde2	1
+Course code vs Allotment map for HD CDC :
+hdc1	1
+Course code vs Allotment map for HD ELE :
+hde1	1
+hde2	1
+		Professors of category x1 and Course Allotment
+p1	1
+p2	1
+		Professors of category x2 and Course Allotment
+p3	1
+p4	1
+p5	1
+		Professors of category x3 and Course Allotment
+p6	1
+p7	1
+		Professors AND Courses
+p3	fdc1	
+p4	fdc3	
+p6	fde1	
+p6	fde2	
+p1	fde2	
+p5	hdc1	
+p7	hde1	
+p7	hde2	
+p2	hde2	
+testcase number:17
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc3	1
+Course code vs Allotment map for FD ELE :
+fde1	1
+fde2	1
+Course code vs Allotment map for HD CDC :
+hdc1	1
+Course code vs Allotment map for HD ELE :
+hde1	1
+hde2	0
+		Professors of category x1 and Course Allotment
+p1	1
+p2	1
+p3	1
+		Professors of category x2 and Course Allotment
+p4	1
+p5	1
+		Professors of category x3 and Course Allotment
+p6	1
+p7	1
+		Professors AND Courses
+p1	fdc1	
+p3	fdc1	
+p4	fdc3	
+p6	fde1	
+p5	fde2	
+p7	hdc1	
+p6	hde1	
+p2	hde1	
+testcase number:18
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc3	1
+Course code vs Allotment map for FD ELE :
+fde1	1
+fde2	1
+Course code vs Allotment map for HD CDC :
+hdc1	1
+hdc3	1
+Course code vs Allotment map for HD ELE :
+hde1	1
+hde2	0
+		Professors of category x1 and Course Allotment
+p1	1
+p2	1
+p3	1
+		Professors of category x2 and Course Allotment
+p4	1
+p5	1
+p6	1
+		Professors of category x3 and Course Allotment
+p7	1
+p8	1
+		Professors AND Courses
+p1	fdc1	
+p3	fdc1	
+p4	fdc3	
+p6	fde1	
+p5	fde2	
+p7	hdc1	
+p8	hdc3	
+p7	hde1	
+p2	hde1	
+testcase number:19
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc3	1
+Course code vs Allotment map for FD ELE :
+fde2	1
+Course code vs Allotment map for HD CDC :
+hdc1	1
+Course code vs Allotment map for HD ELE :
+hde1	1
+hde2	1
+		Professors of category x1 and Course Allotment
+p1	0
+p2	0
+p3	0
+		Professors of category x2 and Course Allotment
+p4	1
+p5	1
+p6	1
+		Professors of category x3 and Course Allotment
+p7	1
+p8	1
+p9	1
+		Professors AND Courses
+p9	fdc1	
+p4	fdc3	
+p6	fde2	
+p5	hdc1	
+p7	hde1	
+p8	hde2	
+testcase number:20
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc3	1
+Course code vs Allotment map for FD ELE :
+fde1	1
+fde2	1
+Course code vs Allotment map for HD CDC :
+hdc1	1
+Course code vs Allotment map for HD ELE :
+hde1	1
+hde2	1
+hde3	0
+		Professors of category x1 and Course Allotment
+p1	1
+p2	0
+p3	0
+		Professors of category x2 and Course Allotment
+p4	1
+p5	1
+p6	1
+		Professors of category x3 and Course Allotment
+p7	1
+p8	1
+p9	1
+		Professors AND Courses
+p9	fdc1	
+p4	fdc3	
+p6	fde1	
+p9	fde2	
+p1	fde2	
+p5	hdc1	
+p7	hde1	
+p8	hde2	
+testcase number:21
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc3	1
+fdc4	1
+fdc5	1
+Course code vs Allotment map for FD ELE :
+fde1	1
+fde2	1
+fde5	1
+Course code vs Allotment map for HD CDC :
+hdc1	1
+Course code vs Allotment map for HD ELE :
+hde1	1
+hde2	0
+hde3	0
+		Professors of category x1 and Course Allotment
+p1	1
+p2	1
+p3	1
+p4	1
+		Professors of category x2 and Course Allotment
+p5	1
+p6	1
+p7	1
+		Professors of category x3 and Course Allotment
+p8	1
+p9	1
+p10	1
+		Professors AND Courses
+p9	fdc1	
+p7	fdc3	
+p5	fdc4	
+p8	fdc5	
+p6	fde1	
+p9	fde2	
+p1	fde2	
+p10	fde5	
+p2	hdc1	
+p3	hdc1	
+p10	hde1	
+p4	hde1	
+testcase number:22
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc2	1
+fdc3	1
+fdc4	1
+Course code vs Allotment map for FD ELE :
+fde1	1
+fde2	1
+fde5	0
+Course code vs Allotment map for HD CDC :
+hdc1	1
+hdc2	1
+hdc3	1
+Course code vs Allotment map for HD ELE :
+hde2	0
+hde3	0
+		Professors of category x1 and Course Allotment
+p1	1
+p2	1
+p3	1
+p4	1
+		Professors of category x2 and Course Allotment
+p5	1
+p6	1
+p7	1
+		Professors of category x3 and Course Allotment
+p8	1
+p9	1
+p10	1
+		Professors AND Courses
+p9	fdc1	
+p6	fdc2	
+p7	fdc3	
+p5	fdc4	
+p10	fde1	
+p9	fde2	
+p1	fde2	
+p8	hdc1	
+p2	hdc2	
+p3	hdc2	
+p8	hdc3	
+p4	hdc3	
+testcase number:23
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc2	1
+fdc3	1
+fdc4	1
+Course code vs Allotment map for FD ELE :
+fde1	1
+fde2	1
+fde4	1
+fde5	0
+Course code vs Allotment map for HD CDC :
+hdc1	1
+hdc2	1
+hdc3	0
+Course code vs Allotment map for HD ELE :
+hde2	0
+hde3	0
+		Professors of category x1 and Course Allotment
+p1	1
+p2	1
+p3	1
+p4	1
+		Professors of category x2 and Course Allotment
+p5	1
+p6	1
+p7	1
+		Professors of category x3 and Course Allotment
+p8	1
+p9	1
+p10	1
+		Professors AND Courses
+p9	fdc1	
+p6	fdc2	
+p7	fdc3	
+p5	fdc4	
+p10	fde1	
+p9	fde2	
+p1	fde2	
+p8	fde4	
+p2	hdc1	
+p3	hdc1	
+p10	hdc2	
+p4	hdc2	
+testcase number:24
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc2	1
+fdc3	1
+fdc4	1
+Course code vs Allotment map for FD ELE :
+fde1	1
+fde2	1
+fde3	1
+fde5	1
+Course code vs Allotment map for HD CDC :
+hdc2	1
+hdc3	1
+Course code vs Allotment map for HD ELE :
+hde1	0
+hde2	0
+hde3	0
+		Professors of category x1 and Course Allotment
+p1	1
+p2	1
+p3	1
+		Professors of category x2 and Course Allotment
+p4	1
+p5	1
+p6	1
+		Professors of category x3 and Course Allotment
+p7	1
+p8	1
+p9	1
+p10	1
+		Professors AND Courses
+p9	fdc1	
+p6	fdc2	
+p4	fdc3	
+p5	fdc4	
+p10	fde1	
+p9	fde2	
+p1	fde2	
+p7	fde3	
+p10	fde5	
+p3	fde5	
+p7	hdc2	
+p2	hdc2	
+p8	hdc3	
+testcase number:25
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc2	1
+fdc3	1
+fdc5	1
+Course code vs Allotment map for FD ELE :
+fde1	1
+fde2	1
+fde3	1
+fde5	1
+Course code vs Allotment map for HD CDC :
+hdc2	1
+hdc4	0
+Course code vs Allotment map for HD ELE :
+hde1	1
+hde3	0
+hde4	0
+		Professors of category x1 and Course Allotment
+p1	1
+p2	1
+p3	1
+p4	0
+		Professors of category x2 and Course Allotment
+p5	1
+p6	1
+p7	1
+p8	1
+		Professors of category x3 and Course Allotment
+p9	1
+p10	1
+p11	1
+		Professors AND Courses
+p9	fdc1	
+p6	fdc2	
+p7	fdc3	
+p9	fdc5	
+p2	fdc5	
+p5	fde1	
+p10	fde2	
+p1	fde2	
+p8	fde3	
+p11	fde5	
+p3	fde5	
+p10	hdc2	
+p11	hde1	
+testcase number:26
+Course code vs Allotment map for FD CDC :
+fdc2	1
+fdc3	1
+fdc4	1
+fdc5	1
+Course code vs Allotment map for FD ELE :
+fde1	1
+fde2	1
+fde3	1
+fde4	1
+Course code vs Allotment map for HD CDC :
+hdc1	1
+hdc3	1
+Course code vs Allotment map for HD ELE :
+hde1	1
+hde2	0
+hde4	0
+		Professors of category x1 and Course Allotment
+p1	1
+p2	1
+p3	0
+p4	1
+p5	1
+		Professors of category x2 and Course Allotment
+p6	1
+p7	1
+p8	1
+		Professors of category x3 and Course Allotment
+p9	1
+p10	1
+p11	1
+p12	1
+		Professors AND Courses
+p6	fdc2	
+p7	fdc3	
+p10	fdc4	
+p12	fdc5	
+p9	fde1	
+p9	fde2	
+p1	fde2	
+p8	fde3	
+p11	fde4	
+p10	hdc1	
+p5	hdc1	
+p12	hdc3	
+p4	hdc3	
+p11	hde1	
+p2	hde1	
+testcase number:27
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc2	1
+fdc3	1
+fdc5	1
+Course code vs Allotment map for FD ELE :
+fde1	1
+fde2	1
+fde3	1
+fde4	1
+fde5	1
+Course code vs Allotment map for HD CDC :
+hdc2	1
+hdc3	0
+hdc4	0
+Course code vs Allotment map for HD ELE :
+hde1	1
+hde2	1
+hde3	0
+hde4	0
+		Professors of category x1 and Course Allotment
+p1	1
+p2	1
+p3	1
+		Professors of category x2 and Course Allotment
+p4	1
+p5	1
+p6	1
+p7	1
+		Professors of category x3 and Course Allotment
+p8	1
+p9	1
+p10	1
+p11	1
+p12	1
+		Professors AND Courses
+p7	fdc1	
+p6	fdc2	
+p4	fdc3	
+p12	fdc5	
+p11	fde1	
+p9	fde2	
+p1	fde2	
+p8	fde3	
+p5	fde4	
+p10	fde5	
+p9	hdc2	
+p10	hde1	
+p2	hde1	
+p8	hde2	
+p3	hde2	
+testcase number:28
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc2	1
+Course code vs Allotment map for FD ELE :
+fde1	1
+fde2	1
+Course code vs Allotment map for HD CDC :
+hdc1	1
+hdc2	1
+Course code vs Allotment map for HD ELE :
+hde1	1
+hde2	1
+		Professors of category x1 and Course Allotment
+p1	0
+p2	1
+p3	0
+p4	0
+p5	0
+		Professors of category x2 and Course Allotment
+p6	1
+p7	1
+p8	1
+p9	1
+p10	1
+		Professors of category x3 and Course Allotment
+p11	1
+p12	1
+p13	0
+p14	0
+p15	0
+		Professors AND Courses
+p6	fdc1	
+p7	fdc2	
+p8	fde1	
+p9	fde2	
+p10	hdc1	
+p12	hdc2	
+p11	hde1	
+p12	hde2	
+p2	hde2	
+testcase number:29
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc2	1
+Course code vs Allotment map for FD ELE :
+fde1	0
+Course code vs Allotment map for HD CDC :
+hdc1	1
+Course code vs Allotment map for HD ELE :
+hde1	1
+		Professors of category x1 and Course Allotment
+p1	1
+p2	0
+		Professors of category x2 and Course Allotment
+p3	1
+p4	1
+		Professors of category x3 and Course Allotment
+p5	1
+		Professors AND Courses
+p3	fdc1	
+p4	fdc2	
+p5	hdc1	
+p5	hde1	
+p1	hde1	
+testcase number:30
+Course code vs Allotment map for FD CDC :
+fdc1	1
+fdc2	1
+fdc4	1
+fdc5	1
+Course code vs Allotment map for FD ELE :
+fde1	1
+fde2	1
+fde3	1
+fde4	1
+Course code vs Allotment map for HD CDC :
+hdc1	1
+hdc2	1
+hdc3	1
+hdc4	1
+		Professors of category x1 and Course Allotment
+p1	1
+p2	1
+p3	0
+p4	1
+p5	0
+		Professors of category x2 and Course Allotment
+p6	1
+p7	1
+p8	1
+p9	1
+p10	0
+		Professors of category x3 and Course Allotment
+p11	1
+p12	1
+p13	1
+p14	1
+p15	1
+		Professors AND Courses
+p6	fdc1	
+p7	fdc2	
+p9	fdc4	
+p15	fdc5	
+p11	fde1	
+p12	fde2	
+p8	fde3	
+p14	fde4	
+p11	hdc1	
+p1	hdc1	
+p12	hdc2	
+p2	hdc2	
+p13	hdc3	
+p14	hdc4	
+p4	hdc4	

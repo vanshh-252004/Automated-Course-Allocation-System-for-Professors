@@ -1,0 +1,19 @@
+\documentclass{article}
+
+\begin{document}
+
+\section*{Crash Test / Consistency Report}
+
+\subsection*{1. Optimization of Professor Allocation}
+
+In the context of Input 6 in the provided file, the ideal output should align with the goal of maximizing the number of professors assigned courses. However, the current output number 6 deviates from this objective as professors $p_5$ and $p_6$ from category $x_3$ are allocated courses $hdc1$ and $hde1$, respectively. To optimize professor allocation, a preferred scenario would involve assigning $hdc1$ to professor $p_5$ and $hde1$ to professors $p_1$ and $p_2$, both belonging to category $x_1$. This strategic assignment ensures a more efficient utilization of available faculty, maximizing the overall number of professors teaching. This preference aligns with the system's goal of balancing faculty workloads while considering their course preferences and category-based constraints. Adjusting the algorithm to prioritize this would enhance its effectiveness in achieving the goal.
+
+\subsection*{2. Lexicographic Priority in FD CDCs}
+
+This algorithm gives priority to FD CDCs for allotment in a lexicographic manner. In input 29, the result is shown below. Even though the 1st preference of $p_3$ is $fdc2$, the professor is allotted $fdc1$ and professor $p_4$ is allotted $fdc2$ because the algorithm first sorts the courses in lexicographic manner and sorts the input for courses available. Due to this, the first course which is checked in the preference of professors is $fdc1$ even though $fdc2$ is the input given first. This leads to $p_3$ being allotted $fdc1$ as it is in its second preference, which completes the 1 course of $p_3$ for a semester, and only $p_4$ left to take $fdc2$. To fix this problem, we could have implemented unordered map in the algorithm, which would not have sorted the courses lexicographically, but in case of a very large input, unordered maps can cause hash-collisions, resulting in inefficient time complexity.
+
+\subsection*{3. Handling Varying Numbers of Preferences}
+
+In addressing the problem of varying numbers of preferences for professors, the algorithm uses a mechanism to equalize the preference vectors. Given that professors can have more than 12 preferences, the algorithm identifies the maximum number of preferences across all professors. To equalize, professors with fewer preferences than the maximum have their preference vector padded with "null" values. This strategic inclusion of "null" serves to standardize the vector length, facilitating a consistent processing framework. However, when a course preference is explicitly marked as "null," it will make the algorithm incapable of functioning as expected. It will leave out all the other preferences given after "null" along with the "null" course itself. This unintended consequence hampers the algorithm's effectiveness. Addressing this issue is crucial for ensuring accurate and comprehensive course allocations based on professors' preferences.
+
+\end{document}

@@ -1,0 +1,859 @@
+30
+1 1 1
+p1 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p3 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+3
+3
+2
+2
+fdc1
+fdc2
+fdc3
+fde1
+fde2
+fde3
+hdc1
+hdc2
+hde1
+hde2
+1 1 1
+p1 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p3 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+2
+2
+2
+2
+fdc2
+fdc3
+fde1
+fde3
+hdc1
+hdc2
+hde1
+hde2
+1 1 1
+p1 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p3 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+3
+3
+2
+2
+fdc1
+fdc4
+fdc3
+fde4
+fde5
+fde6
+hdc1
+hdc2
+hde1
+hde2
+1 1 1
+p1 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p3 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+0
+0
+3
+3
+hdc3
+hdc4
+hdc5
+hde1
+hde4
+hde5
+1 1 1
+p1 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p3 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+3
+0
+0
+0
+fdc2
+fdc1
+fdc3
+2 2 2
+p1 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p3 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p4 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p5 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p6 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+1
+1
+1
+1
+fdc1
+fde1
+hdc1
+hde1
+2 1 2
+p1 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 12
+fdc2 fdc3 fdc5 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p3 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p4 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p5 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+2
+1
+1
+1
+fdc1
+fdc5
+fde1
+hdc1
+hde1
+2 2 1
+p1 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 12
+fdc2 fdc3 fdc1 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p3 12
+fdc1 fdc2 fdc3 fdc4 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p4 12
+fdc1 fdc2 fdc3 fdc4 fde3 fde2 fde1 fde4 hdc1 hdc2 hde1 hde2
+p5 12
+fdc1 fdc3 fdc4 fdc2 fde1 fde2 fde3 fde4 hdc1 hdc3 hde2 hde1
+2
+1
+1
+2
+fdc2
+fdc3
+fde3
+hdc1
+hde1
+hde3
+1 2 2
+p1 12
+fdc1 fdc2 fdc3 fdc4 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 12
+fdc2 fdc3 fdc1 fdc4 fde3 fde2 fde1 fde4 hdc1 hdc2 hde1 hde2
+p3 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p4 12
+fdc3 fdc2 fdc1 fdc4 fde2 fde4 fde3 fde1 hdc2 hdc1 hde1 hde2
+p5 12
+fdc4 fdc1 fdc3 fdc2 fde4 fde1 fde2 fde3 hdc1 hdc2 hde1 hde2
+3
+2
+1
+2
+fdc1
+fdc3
+fdc2
+fde2
+fde3
+hdc1
+hde1
+hde2
+1 2 3
+p1 12
+fdc1 fdc2 fdc3 fdc4 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 12
+fdc2 fdc3 fdc1 fdc4 fde3 fde2 fde1 fde4 hdc1 hdc2 hde1 hde2
+p3 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p4 12
+fdc3 fdc2 fdc1 fdc4 fde2 fde4 fde3 fde1 hdc2 hdc1 hde1 hde2
+p5 12
+fdc4 fdc1 fdc3 fdc2 fde4 fde1 fde2 fde3 hdc1 hdc2 hde1 hde2
+p6 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+3
+2
+1
+2
+fdc1
+fdc3
+fdc2
+fde2
+fde3
+hdc1
+hde1
+hde2
+1 3 2
+p1 12
+fdc1 fdc2 fdc3 fdc4 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 12
+fdc2 fdc3 fdc1 fdc4 fde3 fde2 fde1 fde4 hdc1 hdc2 hde1 hde2
+p3 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p4 12
+fdc3 fdc2 fdc1 fdc4 fde2 fde4 fde3 fde1 hdc2 hdc1 hde1 hde2
+p5 12
+fdc4 fdc1 fdc3 fdc2 fde4 fde1 fde2 fde3 hdc1 hdc2 hde1 hde2
+p6 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+2
+3
+1
+2
+fdc4
+fdc3
+fde2
+fde3
+fde4
+hdc1
+hde1
+hde2
+2 2 2
+p1 12
+fdc1 fdc2 fdc3 fdc4 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 12
+fdc2 fdc3 fdc1 fdc4 fde3 fde2 fde1 fde4 hdc1 hdc2 hde1 hde2
+p3 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p4 12
+fdc3 fdc2 fdc1 fdc4 fde2 fde4 fde3 fde1 hdc2 hdc1 hde1 hde2
+p5 12
+fdc4 fdc1 fdc3 fdc2 fde4 fde1 fde2 fde3 hdc1 hdc2 hde1 hde2
+p6 12
+fdc5 fdc3 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+3
+2
+1
+2
+fdc5
+fdc3
+fdc2
+fde2
+fde3
+hdc1
+hde1
+hde2
+3 2 1
+p1 12
+fdc1 fdc2 fdc3 fdc4 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 12
+fdc2 fdc1 fdc3 fdc4 fde3 fde2 fde1 fde4 hdc2 hdc1 hde2 hde1
+p3 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p4 12
+fdc3 fdc2 fdc1 fdc4 fde2 fde4 fde3 fde1 hdc2 hdc1 hde1 hde2
+p5 12
+fdc4 fdc1 fdc3 fdc2 fde4 fde1 fde2 fde3 hdc1 hdc2 hde1 hde2
+p6 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+2
+2
+1
+2
+fdc4
+fdc2
+fde2
+fde1	 
+hdc4
+hde3
+hde2
+3 2 2
+p1 12
+fdc1 fdc2 fdc3 fdc4 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 12
+fdc2 fdc1 fdc3 fdc4 fde3 fde2 fde1 fde4 hdc2 hdc1 hde2 hde1
+p3 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p4 12
+fdc3 fdc2 fdc1 fdc4 fde2 fde4 fde3 fde1 hdc2 hdc1 hde1 hde2
+p5 12
+fdc4 fdc1 fdc3 fdc2 fde4 fde1 fde2 fde3 hdc1 hdc2 hde1 hde2
+p6 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p7 12
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc2 hde1 hde2
+2
+2
+1
+2
+fdc4
+fdc2
+fde2
+fde1	 
+hdc4
+hde3
+hde2
+2 3 2
+p1 12
+fdc1 fdc2 fdc3 fdc4 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 12
+fdc2 fdc1 fdc4 fdc3 fde3 fde2 fde4 fde1 hdc2 hdc1 hde2 hde1
+p3 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc2 hdc1 hde1 hde2
+p4 12
+fdc3 fdc2 fdc1 fdc4 fde3 fde4 fde2 fde1 hdc2 hdc1 hde1 hde2
+p5 12
+fdc4 fdc1 fdc3 fdc2 fde4 fde1 fde2 fde3 hdc1 hdc2 hde1 hde2
+p6 12
+fdc2 fdc1 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p7 12
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc2 hde1 hde2
+2
+2
+1
+2
+fdc1
+fdc3
+fde2
+fde1	 
+hdc1
+hde1
+hde2
+2 3 2
+p1 13
+fdc1 fdc2 fdc3 fdc4 fdc5 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 13
+fdc2 fdc1 fdc4 fdc3 fdc5 fde3 fde2 fde4 fde1 hdc2 hdc1 hde2 hde1
+p3 13
+fdc1 fdc2 fdc3 fdc4 fdc5 fde1 fde2 fde3 fde4 hdc2 hdc1 hde1 hde2
+p4 13
+fdc3 fdc2 fdc1 fdc4 fdc5 fde3 fde4 fde2 fde1 hdc2 hdc1 hde1 hde2
+p5 12
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde2 fde3 hdc1 hdc2 hde1 hde2
+p6 12
+fdc2 fdc1 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p7 12
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc2 hde1 hde2
+2
+2
+1
+2
+fdc1
+fdc3
+fde2
+fde1	 
+hdc1
+hde1
+hde2
+3 2 2
+p1 13
+fdc1 fdc2 fdc3 fdc4 fdc5 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 13
+fdc2 fdc1 fdc4 fdc3 fdc5 fde3 fde2 fde4 fde1 hdc2 hdc1 hde2 hde1
+p3 13
+fdc1 fdc2 fdc3 fdc4 fdc5 fde1 fde2 fde3 fde4 hdc2 hdc1 hde1 hde2
+p4 14
+fdc3 fdc2 fdc1 fdc4 fdc5 fde3 fde4 fde2 fde1 hdc2 hdc1 hdc3 hde1 hde2
+p5 14
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde2 fde3 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p6 14
+fdc2 fdc1 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p7 14
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc2 hdc3 hde1 hde2 hde3
+2
+2
+1
+2
+fdc1
+fdc3
+fde2
+fde1	 
+hdc1
+hde1
+hde2
+3 3 2
+p1 13
+fdc1 fdc2 fdc3 fdc4 fdc5 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 13
+fdc2 fdc1 fdc4 fdc3 fdc5 fde3 fde2 fde4 fde1 hdc2 hdc1 hde2 hde1
+p3 13
+fdc1 fdc2 fdc3 fdc4 fdc5 fde1 fde2 fde3 fde4 hdc2 hdc1 hde1 hde2
+p4 14
+fdc3 fdc2 fdc1 fdc4 fdc5 fde3 fde4 fde2 fde1 hdc2 hdc1 hdc3 hde1 hde2
+p5 14
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde2 fde3 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p6 14
+fdc2 fdc1 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p7 14
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p8 12
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc3 hde2 hde3
+2
+2
+2
+2
+fdc1
+fdc3
+fde2
+fde1	 
+hdc1
+hdc3
+hde1
+hde2
+3 3 3
+p1 13
+fdc1 fdc2 fdc3 fdc4 fdc5 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 13
+fdc2 fdc1 fdc4 fdc3 fdc5 fde3 fde2 fde4 fde1 hdc2 hdc1 hde2 hde1
+p3 13
+fdc1 fdc2 fdc3 fdc4 fdc5 fde1 fde2 fde3 fde4 hdc2 hdc1 hde1 hde2
+p4 14
+fdc3 fdc2 fdc1 fdc4 fdc5 fde3 fde4 fde2 fde1 hdc2 hdc1 hdc3 hde1 hde2
+p5 14
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde2 fde3 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p6 14
+fdc2 fdc1 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p7 14
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p8 12
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc3 hde2 hde3
+p9 13
+fdc1 fdc2 fdc5 fdc4 fdc3 fde1 fde2 fde3 fde4 hdc2 hdc1 hde1 hde2
+2
+1
+1
+2
+fdc1
+fdc3
+fde2	 
+hdc1
+hde1
+hde2
+3 3 3
+p1 13
+fdc1 fdc2 fdc3 fdc4 fdc5 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 13
+fdc2 fdc1 fdc4 fdc3 fdc5 fde3 fde2 fde4 fde1 hdc2 hdc1 hde2 hde1
+p3 13
+fdc1 fdc2 fdc3 fdc4 fdc5 fde1 fde2 fde3 fde4 hdc2 hdc1 hde1 hde2
+p4 14
+fdc3 fdc2 fdc1 fdc4 fdc5 fde3 fde4 fde2 fde1 hdc2 hdc1 hdc3 hde1 hde2
+p5 14
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde2 fde3 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p6 14
+fdc2 fdc1 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p7 14
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p8 13
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc3 hde2 hde3 hde4
+p9 13
+fdc1 fdc2 fdc5 fdc4 fdc3 fde1 fde2 fde3 fde4 hdc2 hdc1 hde1 hde2
+2
+2
+1
+3
+fdc1
+fdc3
+fde2
+fde1	 
+hdc1
+hde1
+hde2
+hde3
+4 3 3
+p1 13
+fdc1 fdc2 fdc3 fdc4 fdc5 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 13
+fdc2 fdc1 fdc4 fdc3 fdc5 fde3 fde2 fde4 fde1 hdc2 hdc1 hde2 hde1
+p3 13
+fdc1 fdc2 fdc3 fdc4 fdc5 fde1 fde2 fde3 fde4 hdc2 hdc1 hde1 hde2
+p4 14
+fdc3 fdc2 fdc1 fdc4 fdc5 fde3 fde4 fde2 fde1 hdc2 hdc1 hdc3 hde1 hde2
+p5 14
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde2 fde3 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p6 14
+fdc2 fdc1 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p7 14
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p8 13
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc3 hde2 hde3 hde4
+p9 13
+fdc1 fdc2 fdc5 fdc4 fdc3 fde1 fde2 fde3 fde4 hdc2 hdc1 hde1 hde2
+p10 15
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde5 fde2 fde3 hdc1 hdc2 hdc3 hde1 hde2 hde3
+4
+3
+1
+3
+fdc1
+fdc3
+fdc4
+fdc5
+fde2
+fde1
+fde5	 
+hdc1
+hde1
+hde2
+hde3
+4 3 3
+p1 12
+fdc1 fdc3 fdc4 fdc5 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 13
+fdc5 fdc1 fdc4 fdc3 fdc2 fde3 fde1 fde4 fde1 hdc2 hdc1 hde2 hde1
+p3 13
+fdc1 fdc2 fdc3 fdc4 fdc5 fde1 fde2 fde3 fde4 hdc2 hdc1 hde1 hde2
+p4 14
+fdc3 fdc4 fdc1 fdc2 fdc5 fde3 fde2 fde4 fde1 hdc2 hdc1 hdc3 hde1 hde2
+p5 14
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde2 fde3 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p6 14
+fdc2 fdc5 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc3 hdc1 hdc2 hde1 hde2 hde3
+p7 14
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p8 13
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc3 hde2 hde3 hde4
+p9 13
+fdc1 fdc2 fdc5 fdc4 fdc3 fde1 fde2 fde3 fde4 hdc2 hdc1 hde1 hde2
+p10 15
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde5 fde2 fde3 hdc1 hdc2 hdc3 hde1 hde2 hde3
+4
+3
+3
+2
+fdc1
+fdc3
+fdc4
+fdc2
+fde2
+fde1
+fde5	 
+hdc1
+hdc3
+hdc2
+hde2
+hde3
+4 3 3
+p1 12
+fdc1 fdc3 fdc4 fdc5 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 13
+fdc5 fdc1 fdc4 fdc3 fdc2 fde3 fde1 fde4 fde1 hdc2 hdc1 hde2 hde1
+p3 13
+fdc1 fdc2 fdc3 fdc4 fdc5 fde1 fde2 fde3 fde4 hdc2 hdc1 hde1 hde2
+p4 14
+fdc3 fdc4 fdc1 fdc2 fdc5 fde3 fde2 fde4 fde1 hdc2 hdc1 hdc3 hde1 hde2
+p5 14
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde2 fde3 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p6 14
+fdc2 fdc5 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc3 hdc1 hdc2 hde1 hde2 hde3
+p7 12
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc2 hdc3 hde1 hde3
+p8 13
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc3 hde2 hde3 hde4
+p9 13
+fdc1 fdc2 fdc5 fdc4 fdc3 fde1 fde2 fde3 fde4 hdc2 hdc1 hde1 hde2
+p10 15
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde5 fde2 fde3 hdc1 hdc2 hdc3 hde1 hde2 hde3
+4
+4
+3
+2
+fdc1
+fdc3
+fdc4
+fdc2
+fde2
+fde1
+fde5
+fde4	 
+hdc1
+hdc3
+hdc2
+hde2
+hde3
+3 3 4
+p1 12
+fdc1 fdc3 fdc4 fdc5 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 13
+fdc5 fdc1 fdc4 fdc3 fdc2 fde3 fde1 fde4 fde1 hdc2 hdc1 hde2 hde1
+p3 15
+fdc1 fdc2 fdc3 fdc4 fdc5 fde5 fde2 fde3 fde4 fde1 hdc2 hdc1 hde3 hde2 hde1
+p4 14
+fdc3 fdc4 fdc1 fdc2 fdc5 fde3 fde2 fde4 fde1 hdc2 hdc1 hdc3 hde1 hde2
+p5 15
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde2 fde3 fde5 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p6 14
+fdc2 fdc5 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc3 hdc1 hdc2 hde1 hde2 hde3
+p7 14
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p8 13
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc3 hde2 hde3 hde4
+p9 13
+fdc1 fdc2 fdc5 fdc4 fdc3 fde1 fde2 fde3 fde4 hdc2 hdc1 hde1 hde2
+p10 15
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde5 fde2 fde3 hdc1 hdc2 hdc3 hde1 hde2 hde3
+4
+4
+2
+3
+fdc1
+fdc3
+fdc4
+fdc2
+fde2
+fde1
+fde5
+fde3	 
+hdc3
+hdc2
+hde1
+hde2
+hde3
+4 4 3
+p1 12
+fdc1 fdc3 fdc4 fdc5 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 13
+fdc5 fdc1 fdc4 fdc3 fdc2 fde3 fde1 fde4 fde1 hdc2 hdc1 hde2 hde1
+p3 16
+fdc1 fdc2 fdc3 fdc4 fdc5 fde5 fde2 fde3 fde4 fde1 hdc4 hdc1 hdc2 hde3 hde2 hde1
+p4 14
+fdc3 fdc4 fdc1 fdc2 fdc5 fde3 fde2 fde4 fde1 hdc2 hdc1 hdc3 hde1 hde2
+p5 15
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde2 fde3 fde5 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p6 14
+fdc2 fdc5 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc3 hdc1 hdc2 hde1 hde2 hde3
+p7 14
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p8 13
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc3 hde2 hde3 hde4
+p9 13
+fdc1 fdc2 fdc5 fdc4 fdc3 fde1 fde2 fde3 fde4 hdc2 hdc1 hde1 hde2
+p10 15
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde5 fde2 fde3 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p11 16
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde5 fde2 fde3 hdc1 hdc2 hdc3 hde1 hde4 hde2 hde3
+4
+4
+2
+3
+fdc1
+fdc3
+fdc5
+fdc2
+fde2
+fde1
+fde5
+fde3	 
+hdc2
+hdc4
+hde1
+hde4
+hde3
+5 3 4
+p1 12
+fdc1 fdc3 fdc4 fdc5 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 13
+fdc5 fdc1 fdc4 fdc3 fdc2 fde3 fde1 fde4 fde1 hdc2 hdc1 hde2 hde1
+p3 16
+fdc1 fdc2 fdc3 fdc4 fdc5 fde5 fde2 fde3 fde4 fde1 hdc4 hdc1 hdc2 hde3 hde2 hde1
+p4 14
+fdc3 fdc4 fdc1 fdc2 fdc5 fde3 fde2 fde4 fde1 hdc2 hdc1 hdc3 hde1 hde2
+p5 15
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde2 fde3 fde5 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p6 14
+fdc2 fdc5 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc3 hdc1 hdc2 hde1 hde2 hde3
+p7 14
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p8 13
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc3 hde2 hde3 hde4
+p9 13
+fdc1 fdc2 fdc5 fdc4 fdc3 fde1 fde2 fde3 fde4 hdc2 hdc1 hde1 hde2
+p10 15
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde5 fde2 fde3 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p11 16
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde5 fde2 fde3 hdc1 hdc2 hdc3 hde1 hde4 hde2 hde3
+p12 13
+fdc5 fdc1 fdc4 fdc3 fdc2 fde3 fde2 fde1 fde1 hdc3 hdc1 hde3 hde1
+4
+4
+2
+3
+fdc4
+fdc3
+fdc5
+fdc2
+fde2
+fde4
+fde1
+fde3	 
+hdc1
+hdc3
+hde1
+hde4
+hde2
+3 4 5
+p1 12
+fdc1 fdc3 fdc4 fdc5 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 13
+fdc5 fdc1 fdc4 fdc3 fdc2 fde3 fde1 fde4 fde1 hdc2 hdc1 hde2 hde1
+p3 16
+fdc1 fdc2 fdc3 fdc4 fdc5 fde1 fde3 fde5 fde4 fde2 hdc4 hdc1 hdc2 hde3 hde2 hde1
+p4 14
+fdc3 fdc5 fdc1 fdc2 fdc4 fde3 fde2 fde4 fde1 hdc2 hdc1 hdc3 hde1 hde2
+p5 15
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde2 fde3 fde5 hdc4 hdc2 hdc3 hde3 hde4 hde1
+p6 14
+fdc2 fdc5 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc3 hdc1 hdc2 hde1 hde2 hde3
+p7 14
+fdc1 fdc4 fdc5 fdc3 fde3 fde4 fde3 fde4 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p8 13
+fdc3 fdc2 fdc5 fdc4 fde3 fde4 fde3 fde4 hdc1 hdc3 hde2 hde3 hde4
+p9 13
+fdc1 fdc2 fdc5 fdc4 fdc3 fde1 fde2 fde3 fde4 hdc2 hdc1 hde1 hde2
+p10 15
+fdc4 fdc1 fdc2 fdc5 fde4 fde1 fde5 fde2 fde3 hdc1 hdc2 hdc3 hde1 hde2 hde3
+p11 16
+fdc4 fdc3 fdc2 fdc1 fde1 fde5 fde4 fde2 fde3 hdc1 hdc2 hdc3 hde1 hde4 hde2 hde3
+p12 13
+fdc5 fdc1 fdc4 fdc3 fdc2 fde3 fde2 fde1 fde1 hdc3 hdc1 hde3 hde1
+4
+5
+3
+4
+fdc1
+fdc3
+fdc5
+fdc2
+fde2
+fde4
+fde1
+fde3
+fde5	 
+hdc4
+hdc3
+hdc2
+hde1
+hde4
+hde2
+hde3
+5 5 5
+p1 12
+fdc1 fdc2 fdc3 fdc4 fde2 fde1 fde3 fde4 hdc1 hdc2 hde1 hde2
+p2 12
+fdc2 fdc1 fdc3 fdc4 fde3 fde2 fde1 fde4 hdc2 hdc1 hde2 hde1
+p3 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p4 12
+fdc3 fdc2 fdc1 fdc4 fde2 fde4 fde3 fde1 hdc2 hdc1 hde1 hde2
+p5 12
+fdc4 fdc1 fdc3 fdc2 fde4 fde1 fde2 fde3 hdc1 hdc2 hde1 hde2
+p6 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p7 12
+fdc2 fdc1 fdc3 fdc4 fde3 fde2 fde1 fde4 hdc2 hdc1 hde2 hde1
+p8 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p9 12
+fdc3 fdc2 fdc1 fdc4 fde2 fde4 fde3 fde1 hdc2 hdc1 hde1 hde2
+p10 12
+fdc4 fdc1 fdc3 fdc2 fde4 fde1 fde2 fde3 hdc1 hdc2 hde1 hde2
+p11 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p12 12
+fdc2 fdc1 fdc3 fdc4 fde3 fde2 fde1 fde4 hdc2 hdc1 hde2 hde1
+p13 12
+fdc1 fdc2 fdc3 fdc4 fde1 fde2 fde3 fde4 hdc1 hdc2 hde1 hde2
+p14 12
+fdc3 fdc2 fdc1 fdc4 fde2 fde4 fde3 fde1 hdc2 hdc1 hde1 hde2
+p15 12
+fdc4 fdc1 fdc3 fdc2 fde4 fde1 fde2 fde3 hdc1 hdc2 hde1 hde2
+2
+2
+2
+2
+fdc1
+fdc2
+fde1
+fde2
+hdc1
+hdc2
+hde1
+hde2
+2 2 1
+p1 13
+fdc3 fdc4 fdc5 fdc6 fde1 fde3 fde4 fde5 hdc2 hdc1 hde1 hde2 hde3
+p2 13
+fdc3 fdc4 fdc5 fdc6 fde3 fde2 fde4 fde5 fde3 hdc2 hdc1 hde1 hde2
+p3 12
+fdc2 fdc1 fdc3 fdc5 fde2 fde4 fde5 fde3 hdc2 hdc1 hde1 hde2
+p4 12
+fdc4 fdc2 fdc1 fdc3 fde2 fde4 fde5 fde3 hdc2 hdc1 hde1 hde2
+p5 12
+fdc3 fdc4 fdc1 fdc6 fde3 fde2 fde4 fde5 hdc2 hdc1 hde1 hde2
+2
+1
+1
+1
+fdc2
+fdc1
+fde1
+hdc1
+hde1
+5 5 5
+p1 15
+fdc1 fdc2 fdc3 fdc4 fdc5 fde1 fde2 fde3 fde4 fde5 hdc1 hdc2 hdc3 hdc4 hdc5
+p2 15
+fdc2 fdc1 fdc3 fdc4 fdc5 fde2 fde1 fde3 fde4 fde5 hdc2 hdc1 hdc3 hdc4 hdc5
+p3 15
+fdc3 fdc2 fdc1 fdc4 fdc5 fde3 fde2 fde1 fde4 fde5 hdc3 hdc2 hdc1 hdc4 hdc5
+p4 15
+fdc4 fdc2 fdc1 fdc3 fdc5 fde4 fde2 fde1 fde3 fde5 hdc4 hdc2 hdc1 hdc3 hdc5
+p5 15
+fdc5 fdc2 fdc1 fdc3 fdc4 fde5 fde2 fde1 fde3 fde4 hdc5 hdc2 hdc1 hdc3 hdc4
+p6 15
+fdc1 fdc2 fdc3 fdc4 fdc5 fde1 fde2 fde3 fde4 fde5 hdc1 hdc2 hdc3 hdc4 hdc5
+p7 15
+fdc2 fdc1 fdc3 fdc4 fdc5 fde2 fde1 fde3 fde4 fde5 hdc2 hdc1 hdc3 hdc4 hdc5
+p8 15
+fdc3 fdc2 fdc1 fdc4 fdc5 fde3 fde2 fde1 fde4 fde5 hdc3 hdc2 hdc1 hdc4 hdc5
+p9 15
+fdc4 fdc2 fdc1 fdc3 fdc5 fde4 fde2 fde1 fde3 fde5 hdc4 hdc2 hdc1 hdc3 hdc5
+p10 15
+fdc2 fdc5 fdc1 fdc3 fdc4 fde5 fde2 fde1 fde3 fde4 hdc5 hdc2 hdc1 hdc3 hdc4
+p11 15
+fdc1 fdc2 fdc3 fdc4 fdc5 fde1 fde2 fde3 fde4 fde5 hdc1 hdc2 hdc3 hdc4 hdc5
+p12 15
+fdc2 fdc1 fdc3 fdc4 fdc5 fde2 fde1 fde3 fde4 fde5 hdc2 hdc1 hdc3 hdc4 hdc5
+p13 15
+fdc3 fdc2 fdc1 fdc4 fdc5 fde3 fde2 fde1 fde4 fde5 hdc3 hdc2 hdc1 hdc4 hdc5
+p14 15
+fdc4 fdc2 fdc1 fdc3 fdc5 fde4 fde2 fde1 fde3 fde5 hdc4 hdc2 hdc1 hdc3 hdc5
+p15 15
+fdc5 fdc2 fdc1 fdc3 fdc4 fde5 fde2 fde1 fde3 fde4 hdc5 hdc2 hdc1 hdc3 hdc4
+4
+4
+4
+0
+fdc1
+fdc2
+fdc5
+fdc4
+fde2
+fde3
+fde1
+fde4
+hdc2
+hdc1
+hdc4
+hdc3 
+
+
+

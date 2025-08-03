@@ -1,0 +1,83 @@
+\documentclass{article}
+
+\begin{document}
+
+\section*{Final Project Report}
+
+\subsection*{1. Introduction}
+
+The problem statement consists of designing and implementing an algorithm for course allotment to different professors in a university. There are 3 categories of professors:
+
+\begin{itemize}
+    \item Category 1: They can undertake 0.5 courses per semester. There are $x_1$ such professors.
+    \item Category 2: They can undertake 1 course per semester. There are $x_2$ such professors.
+    \item Category 3: They can undertake 0.5 or 1 or 1.5 courses per semester.
+\end{itemize}
+
+Each professor has a preference list consisting of a minimum of 4 FD CDC, 4 FD ELE, 2 HD CDC, and 2 HD ELE.
+
+\subsection*{2. Methodology}
+
+\subsubsection*{2.1 Approach}
+
+The C++ code implements a course allotment system for professors belonging to three different categories ($x_1$, $x_2$, $x_3$) as specified above. The program takes input regarding the number of professors in each category, their names, the number of courses they prefer, and the courses themselves. It also takes input about the availability of courses for First Degree CDCs (FD CDCs), First Degree Electives (FD ELEs), Higher Degree CDCs (HD CDCs), and Higher Degree Electives (HD ELEs).
+
+The program then performs the course allotment based on a specific algorithm, and the results are stored in various data structures, including vectors and maps. Finally, the program displays the allotment status for each category of professors, the allotment status for each type of course, and a list of professors along with the courses allotted to them.
+
+\subsubsection*{2.2 Main Components}
+
+\begin{enumerate}
+    \item \textbf{Input}:
+    \begin{itemize}
+        \item The program takes input for the number of professors in each category ($x_1$, $x_2$, $x_3$).
+        \item For each professor, it takes their name, the number of courses they prefer, and the code of those courses.
+        \item It also takes input about the availability of courses for different categories.
+    \end{itemize}
+    
+    \item \textbf{Data Structures}:
+    \begin{itemize}
+        \item The code uses vectors of vectors of string data type (\texttt{v1}, \texttt{v2}, \texttt{v3}) to store the professors' names and their preferred courses for each category.
+        \item It uses vectors of pairs (\texttt{p1}, \texttt{p2}, \texttt{p3}) to store information about professors, including their names and whether they have been allotted a course.
+        \item Maps (\texttt{mfcdc}, \texttt{mfdel}, \texttt{mhcdc}, \texttt{mhdel}) are used to represent the availability of different types of courses.
+    \end{itemize}
+    
+    \item \textbf{Course Allotment}:
+    \begin{itemize}
+        \item The program follows a specific algorithm to allot courses, starting with FD CDCs, then FD ELEs, HD CDCs, and finally HD ELEs.
+        \item The allotment is based on professor preferences, and the results are stored in the \texttt{prof\_and\_courses} vector.
+    \end{itemize}
+    
+    \item \textbf{Output}:
+    \begin{itemize}
+        \item The program outputs the allotment status for each type of course and each category of professors.
+        \item It also displays a list of professors along with the courses allotted to them.
+    \end{itemize}
+\end{enumerate}
+
+The code includes comments explaining each section of the program.
+
+\subsection*{3. Algorithm}
+
+Our goal is to assign courses to different professors such that the number of professors getting their better possible preferred course is maximum. First of all, we make all the vectors of the same size by appending "null" to vectors of size less than the maximum input entered for the preference given by professors.
+
+\subsubsection*{3.1 Allotting FD CDCs}
+
+We maintain a counter variable named 'column' to go through each professor's preference. We begin by iterating through each course in the map \texttt{mfcdc}. Since it is a map, it stores course code lexicographically. For a course, say C1, we first iterate through the current preference index (column) for all professors of category $x_2$ and then if found, we allot the course to that professor and then we move forward to the next FD CDC in \texttt{mfcdc}. If not found in category $x_2$, we move to category $x_3$ and do the same. If not found in category $x_3$, we then move to $x_1$.
+
+Here we have two separate conditions to allot this course,
+
+\begin{itemize}
+    \item \textbf{Condition 1}: If, within the same column of category $x_1$, we find two professors with the same preference for the concerned course in this iteration, we mark the course as allotted, by giving 0.5 courses to each of the two professors. Every time a professor is allotted a course, we mark that professor as course given by changing the 'false' value to 'true' in the \texttt{p1}, \texttt{p2}, \texttt{p3} vector.
+    
+    \item \textbf{Condition 2}: If we do not find 2 professors with the same course, we iterate through all columns of all professors of $x_3$, if we find the course in preference of $x_3$ category prof, who are not already marked, we mark that professor as 'true' in 'half\_p3', so now this professor does 0.5 of the concerned course and the corresponding professor in $x_1$ category does the remaining 0.5 course.
+\end{itemize}
+
+If the CDC does not find a professor(s), we iterate to the next column. If after iterating through all possible options, we do not find a professor(s) for the course, the course remains marked as 'false' in the map \texttt{mfcdc}. Then we move to the next CDC.
+
+\subsubsection*{3.2 Allotting Other Courses}
+
+We follow the same criteria for allotment of other courses; we use \texttt{mhcdc} for HD CDC, \texttt{mhdel} for HD ELE, \texttt{mfdel} FD ELE.
+
+A vector of vector of string (\texttt{prof\_and\_courses}) stores the name of the professors and courses allotted to them.
+
+\end{document}
